@@ -1,7 +1,7 @@
 {
   "routes": [
     {
-      "route": "/scrv",
+      "route": "/test",
       "redirect": "/",
       "statusCode": 301
     }
