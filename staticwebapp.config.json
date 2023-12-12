@@ -1,9 +1,8 @@
 {
   "routes": [
     {
-      "route": "/test",
-      "redirect": "/",
-      "statusCode": 301
+      "route": "/test/*",
+      "rewrite": "/"
     }
   ]
 }
