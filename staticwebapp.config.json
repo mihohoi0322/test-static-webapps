@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "route": "/scrv",
+      "redirect": "/",
+      "statusCode": 301
+    }
+  ]
+}
