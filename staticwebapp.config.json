@@ -2,7 +2,7 @@
   "routes": [
     {
       "route": "/",
-      "rewrite": "/test*"
+      "rewrite": "/test"
     }
   ]
 }
